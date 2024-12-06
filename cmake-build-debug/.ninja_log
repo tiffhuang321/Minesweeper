@@ -1,0 +1,8 @@
+# ninja log v6
+62	1367	7546884080945858	CMakeFiles/minesweeper.dir/Tile.cpp.obj	98b162f3f69e919a
+34	1236	7546915995311128	CMakeFiles/minesweeper.dir/main.cpp.obj	cf22a3b801ccc138
+10	973	7546914826708461	CMakeFiles/minesweeper.dir/Digits.cpp.obj	8951e9b1bb4e4c04
+79	941	7544318564304919	build.ninja	88ef9ef36504f91c
+59	1377	7546915995568314	CMakeFiles/minesweeper.dir/Button.cpp.obj	49761be91128de25
+1556	1907	7546916010533382	minesweeper.exe	5138bd84401fa195
+47	1556	7546915995445171	CMakeFiles/minesweeper.dir/Board.cpp.obj	76d2f757cd70661a
